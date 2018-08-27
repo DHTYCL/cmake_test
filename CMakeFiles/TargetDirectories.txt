@@ -1,0 +1,3 @@
+/home/aitian/project/cmake_test/CMakeFiles/edit_cache.dir
+/home/aitian/project/cmake_test/CMakeFiles/rebuild_cache.dir
+/home/aitian/project/cmake_test/CMakeFiles/sticker_me.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/sticker_me.dir/main.cpp.o  -o sticker_me -rdynamic fun/libutils.so -Wl,-rpath,/home/aitian/project/cmake_test/fun 

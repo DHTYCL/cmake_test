@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aitian/project/cmake_test/fun/fun.h
+
+/home/aitian/project/cmake_test/main.cpp
+iostream
+-
+fun/fun.h
+/home/aitian/project/cmake_test/fun/fun.h
+
